@@ -20,7 +20,7 @@ PRINTER SETTING
 * Extruder
   - Nozzle Diameter: 0.25mm
   - Extrusion Multiplier: 1.00
-  - Extrusion Width: Manual, 0.25mm
+  - Extrusion Width: Manual: 0.25mm
   - Retraction Distance: 1.00mm
   - Extra Restart Distace: 0.00mm
   - Retraction Vertical Lift: 0.00mm
