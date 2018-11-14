@@ -45,7 +45,7 @@ PRINTER SETTING
 * Fan Speed
   - 100%
 * Speeds
-  - Default Printing Speed: 2800.0mm/min
+  - Default Printing Speed: 1200.0mm/min (Speed is slowed for more accurate printing)
   - Outline Underspeed: 60%
   - Solid Infill Underspeed: 80%
   - X/Y Axis Movement Speed: 18000.0mm/min
